@@ -50,3 +50,10 @@ color: darkslateblue;
 .green {
   color: darkgreen;
 }
+
+.col-4 {
+  padding: 10px;
+  border:solid cornflowerblue 5px;
+  margin: 5px;
+  background-color: antiquewhite;
+}
