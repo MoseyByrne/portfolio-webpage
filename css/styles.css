@@ -1,6 +1,11 @@
 img {
   height: 100px;
   width: auto;
+  float: right;
+  background-color: darkred;
+  padding: 6px;
+  border:solid rgb(182, 225, 249) 5px;
+  margin: 20px;
 }
 
 .profile {
@@ -12,9 +17,27 @@ img {
 }
 
 h1 {
+  float: right;
   color: rgb(42, 106, 106);
+}
+
+h2 {
+  font-family: serif;
+  font-size: 20px;
+}
+
+h3 {
+font-size: 13px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding-left: 15px;
+
 }
 
 .about {
   color: darkslateblue;
+  padding-left: 15px;
+}
+
+.green {
+  color: darkgreen;
 }
