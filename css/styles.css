@@ -1,10 +1,15 @@
+body {
+  background: radial-gradient(ellipse at top, #e66465, transparent),
+  radial-gradient(ellipse at bottom, #4d9f0c, transparent);
+  background-repeat: no-repeat;
+}
 img {
   height: 100px;
   width: auto;
   float: right;
-  background-color: darkred;
+  background-color: #feb2b2;
   padding: 6px;
-  border:solid rgb(182, 225, 249) 5px;
+  border:solid #4d9f0c 3px;
   margin: 20px;
 }
 
@@ -18,7 +23,7 @@ img {
 
 h1 {
   float: right;
-  color: rgb(42, 106, 106);
+  color: #e66465;
 }
 
 h2 {
