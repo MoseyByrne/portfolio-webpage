@@ -5,5 +5,16 @@ img {
 
 .profile {
   border-radius: 150px;
+}
 
+.info {
+  color: darkslategrey;
+}
+
+h1 {
+  color: rgb(42, 106, 106);
+}
+
+.about {
+  color: darkslateblue;
 }
